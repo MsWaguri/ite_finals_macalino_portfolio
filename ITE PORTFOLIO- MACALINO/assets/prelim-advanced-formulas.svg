@@ -1,1 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc"><title id="title">Prelim Activity No. 2 — Advanced Excel Formulas</title><desc id="desc">Coursework preview for the advanced Excel formulas activity.</desc><rect width="900" height="520" fill="#f7f8f4"/><rect x="28" y="26" width="844" height="468" rx="12" fill="#fff" stroke="#d9ddcf"/><text x="58" y="82" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#263020">PRELIM ACTIVITY NO. 2</text><text x="58" y="120" font-family="Arial,sans-serif" font-size="19" fill="#58634b">Advanced Excel Formulas</text><rect x="58" y="148" width="784" height="1" fill="#d9ddcf"/><text x="58" y="194" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#34402e">SUBMISSION</text><text x="72" y="242" font-family="Arial,sans-serif" font-size="16" fill="#41483c">Complete the assigned spreadsheet using the required advanced formulas.</text><text x="72" y="282" font-family="Arial,sans-serif" font-size="16" fill="#41483c">Check that calculations and cell references are correct.</text><text x="72" y="322" font-family="Arial,sans-serif" font-size="16" fill="#41483c">Save the completed workbook with your name and submit it.</text><rect x="58" y="382" width="784" height="58" rx="6" fill="#edf4d8"/><text x="78" y="418" font-family="Arial,sans-serif" font-size="14" fill="#56672a">COURSEWORK PREVIEW · ITC C503</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="900" viewBox="0 0 1500 900" role="img" aria-labelledby="title desc">
+  <title id="title">Prelim Activity No. 2</title>
+  <desc id="desc">Dark-themed assignment preview for the Advanced Excel Formulas activity.</desc>
+  <rect width="1500" height="900" fill="#2a2d31"/>
+  <rect x="0" y="0" width="1500" height="80" fill="#2a2d31"/>
+  <text x="50" y="54" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#dce0e4">&lt; Back</text>
+  <g transform="translate(0,0)">
+    <text x="60" y="200" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#f0f0f0">PRELIM ACTIVITY NO.2_ADVANCED EXCEL FORMULAS</text>
+    <text x="60" y="260" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#c9cfd4">Due July 31, 2026 10:30 AM · Multiple submissions allowed</text>
+    <g transform="translate(60,300)">
+      <rect x="0" y="0" width="32" height="32" fill="none" stroke="#c8d0d4" stroke-width="2"/>
+      <text x="44" y="23" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#dadfe4">PRELIM WEEK 1-3 INTRODUCTION TO DATA SCIENCE</text>
+    </g>
+  </g>
+  <text x="60" y="420" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#f0f0f0">Instructions</text>
+  <text x="60" y="475" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#f0f0f0">SUBMIT YOUR EXCEL FILE</text>
+  <text x="1200" y="220" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#d7dce1">Points</text>
+  <text x="1200" y="260" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#d7dce1">25 points possible</text>
+  <g transform="translate(0,0)">
+    <text x="1340" y="90" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#dce1e6">Turned in late Fri Jul 31, 2026 at 10:31 AM</text>
+    <rect x="1330" y="105" width="120" height="42" rx="8" fill="#5e5d8b"/>
+    <text x="1356" y="133" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Turn in</text>
+  </g>
+  <text x="60" y="570" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#f0f0f0">My work</text>
+  <rect x="60" y="610" width="980" height="110" rx="10" fill="#4a4d53"/>
+  <g transform="translate(80,630)">
+    <rect x="0" y="0" width="34" height="34" fill="#2bb673"/>
+    <text x="48" y="24" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#f0f0f0">PRELIM ACTIVITY NO.2_ADVANCED EXCEL FORMULAS-Macalino.xlsx</text>
+  </g>
+  <g transform="translate(1010,650)">
+    <circle cx="0" cy="0" r="14" fill="#e0e0e0"/>
+    <circle cx="26" cy="0" r="14" fill="#e0e0e0"/>
+    <circle cx="52" cy="0" r="14" fill="#e0e0e0"/>
+  </g>
+  <text x="60" y="806" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#c9d1d7">Attach</text>
+  <text x="180" y="806" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#c9d1d7">+ New</text>
+</svg>

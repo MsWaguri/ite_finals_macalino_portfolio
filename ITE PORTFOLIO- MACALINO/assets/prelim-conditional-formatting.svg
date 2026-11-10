@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" role="img" aria-labelledby="title desc"><title id="title">Prelim Activity No. 1 — Conditional Formatting and Filtering</title><desc id="desc">Illustrated coursework preview with spreadsheet formatting instructions.</desc><rect width="900" height="600" fill="#f7f8f4"/><rect x="28" y="26" width="844" height="548" rx="12" fill="#fff" stroke="#d9ddcf"/><text x="58" y="80" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#263020">PRELIM ACTIVITY NO. 1</text><text x="58" y="116" font-family="Arial,sans-serif" font-size="19" fill="#58634b">Conditional Formatting &amp; Filtering</text><rect x="58" y="145" width="784" height="1" fill="#d9ddcf"/><text x="58" y="185" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#34402e">TASK CHECKLIST</text><g font-family="Arial,sans-serif" font-size="15" fill="#41483c"><text x="70" y="230">✓ Apply highlight, top/bottom, data bar, color scale, and duplicate-value rules</text><text x="70" y="273">✓ Insert and copy columns; create and rename worksheet tabs</text><text x="70" y="316">✓ Filter records by building and copy filtered results to a new sheet</text><text x="70" y="359">✓ Sort last names ascending and listing prices descending</text><text x="70" y="402">✓ Format names left-aligned and prices as Philippine pesos</text><text x="70" y="445">✓ Save and submit the completed Excel workbook</text></g><rect x="58" y="482" width="784" height="58" rx="6" fill="#edf4d8"/><text x="78" y="518" font-family="Arial,sans-serif" font-size="14" fill="#56672a">COURSEWORK PREVIEW · ITC C503</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Prelim Activity No. 1</title>
+  <desc id="desc">Coursework preview card for the Conditional Formatting and Filtering activity.</desc>
+  <rect width="1200" height="700" fill="#f3f2ef"/>
+  <rect x="26" y="26" width="1148" height="648" rx="14" fill="#f3f2ef" stroke="#d9d9d4"/>
+  <text x="64" y="124" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#262725">PRELIM ACTIVITY NO. 1</text>
+  <text x="64" y="190" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#4d514a">Conditional Formatting &amp; Filtering</text>
+  <line x1="64" y1="230" x2="1136" y2="230" stroke="#d7d8d3" stroke-width="2"/>
+  <text x="64" y="310" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#232720">TASK CHECKLIST</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#2f342f">
+    <text x="90" y="378">✓ Apply highlight, top/bottom, data bar, color scale, and duplicate-value rules</text>
+    <text x="90" y="434">✓ Insert and copy columns; create and rename worksheets tabs</text>
+    <text x="90" y="490">✓ Filter records by building and copy filtered results to a new sheet</text>
+    <text x="90" y="546">✓ Sort last names ascending and listing prices descending</text>
+    <text x="90" y="602">✓ Format names left-aligned and prices as Philippine pesos</text>
+    <text x="90" y="658">✓ Save and submit the completed Excel workbook</text>
+  </g>
+  <rect x="64" y="690" width="1072" height="74" rx="8" fill="#dfe8cb"/>
+  <text x="96" y="740" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#4e6141">COURSEWORK PREVIEW · ITC C503</text>
+</svg>
