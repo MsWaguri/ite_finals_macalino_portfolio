@@ -1,37 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="900" viewBox="0 0 1500 900" role="img" aria-labelledby="title desc">
-  <title id="title">Prelim Activity No. 2</title>
-  <desc id="desc">Dark-themed assignment preview for the Advanced Excel Formulas activity.</desc>
-  <rect width="1500" height="900" fill="#2a2d31"/>
-  <rect x="0" y="0" width="1500" height="80" fill="#2a2d31"/>
-  <text x="50" y="54" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#dce0e4">&lt; Back</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+  <title id="title">Prelim Activity No.2 Advanced Excel Formulas</title>
+  <desc id="desc">Dark-themed assignment submission page for the advanced Excel formulas activity.</desc>
+  <rect width="1440" height="900" fill="#2a2d31"/>
+
+  <rect x="0" y="0" width="1440" height="72" fill="#2a2d31"/>
+  <text x="34" y="46" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#dfe3ea">&lt; Back</text>
+
   <g transform="translate(0,0)">
-    <text x="60" y="200" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#f0f0f0">PRELIM ACTIVITY NO.2_ADVANCED EXCEL FORMULAS</text>
-    <text x="60" y="260" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#c9cfd4">Due July 31, 2026 10:30 AM · Multiple submissions allowed</text>
-    <g transform="translate(60,300)">
-      <rect x="0" y="0" width="32" height="32" fill="none" stroke="#c8d0d4" stroke-width="2"/>
-      <text x="44" y="23" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#dadfe4">PRELIM WEEK 1-3 INTRODUCTION TO DATA SCIENCE</text>
-    </g>
+    <rect x="1000" y="18" width="182" height="36" rx="8" fill="#4b4d5b" opacity="0.8"/>
+    <text x="1024" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#ebeff4">✔</text>
+    <text x="1052" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#ebeff4">Turned in late Fri Jul 31, 2026 at 10:31 AM</text>
+    <rect x="1288" y="16" width="110" height="38" rx="8" fill="#5d5e8a"/>
+    <text x="1318" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="700">Turn in</text>
   </g>
-  <text x="60" y="420" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#f0f0f0">Instructions</text>
-  <text x="60" y="475" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#f0f0f0">SUBMIT YOUR EXCEL FILE</text>
-  <text x="1200" y="220" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#d7dce1">Points</text>
-  <text x="1200" y="260" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#d7dce1">25 points possible</text>
-  <g transform="translate(0,0)">
-    <text x="1340" y="90" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#dce1e6">Turned in late Fri Jul 31, 2026 at 10:31 AM</text>
-    <rect x="1330" y="105" width="120" height="42" rx="8" fill="#5e5d8b"/>
-    <text x="1356" y="133" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Turn in</text>
+
+  <text x="56" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#f2f3f5">PRELIM ACTIVITY NO.2_ADVANCED EXCEL FORMULAS</text>
+  <text x="56" y="248" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#dfe3ea">Due July 31, 2026 10:30 AM · Multiple submissions allowed</text>
+
+  <g transform="translate(56,286)">
+    <rect x="0" y="0" width="28" height="28" fill="none" stroke="#dfe3ea" stroke-width="2"/>
+    <text x="38" y="22" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#dfe3ea">PRELIM WEEK 1-3 INTRODUCTION TO DATA SCIENCE</text>
   </g>
-  <text x="60" y="570" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#f0f0f0">My work</text>
-  <rect x="60" y="610" width="980" height="110" rx="10" fill="#4a4d53"/>
-  <g transform="translate(80,630)">
-    <rect x="0" y="0" width="34" height="34" fill="#2bb673"/>
-    <text x="48" y="24" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#f0f0f0">PRELIM ACTIVITY NO.2_ADVANCED EXCEL FORMULAS-Macalino.xlsx</text>
+
+  <text x="56" y="360" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#f2f3f5">Instructions</text>
+  <text x="56" y="410" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#f2f3f5">SUBMIT YOUR EXCEL FILE</text>
+
+  <g transform="translate(1130,120)">
+    <text x="0" y="0" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#eff2f6">Points</text>
+    <text x="0" y="46" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#eff2f6">25 points possible</text>
   </g>
-  <g transform="translate(1010,650)">
-    <circle cx="0" cy="0" r="14" fill="#e0e0e0"/>
-    <circle cx="26" cy="0" r="14" fill="#e0e0e0"/>
-    <circle cx="52" cy="0" r="14" fill="#e0e0e0"/>
-  </g>
-  <text x="60" y="806" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#c9d1d7">Attach</text>
-  <text x="180" y="806" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#c9d1d7">+ New</text>
+
+  <text x="56" y="560" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#f2f3f5">My work</text>
+
+  <rect x="56" y="600" width="980" height="72" rx="8" fill="#4a4d52" stroke="#6a717c"/>
+  <rect x="72" y="618" width="26" height="26" fill="#33b77d" rx="4"/>
+  <text x="110" y="638" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#f2f3f5">PRELIM ACTIVITY NO.2_ADVANCED EXCEL FORMULAS-Macalino.xlsx</text>
+  <circle cx="1020" cy="636" r="8" fill="#dfe3ea"/>
+  <circle cx="1044" cy="636" r="8" fill="#dfe3ea"/>
+  <circle cx="1068" cy="636" r="8" fill="#dfe3ea"/>
+
+  <text x="56" y="724" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#dfe3ea">Attach</text>
+  <text x="146" y="724" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#dfe3ea">+ New</text>
 </svg>
